@@ -7,7 +7,7 @@
 
 /*
 Plugin Name: Vidyard oEmbed
-Plugin URI: http://#
+Plugin URI: https://github.com/vsellis/vidyard-oembed
 Description: Simply registers vidyard as an oEmbed provider.
 Author: VSELLIS
 Version: 1.0
